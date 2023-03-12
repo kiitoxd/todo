@@ -1,0 +1,31 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+    margin: 100p;
+    display: grid;
+    place-items: center;
+    background-color: pink;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.card-body {
+    display: grid;
+    align-items: center;
+    background-color: pink;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.input-group-append {
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card-header {
+    background-color: pink;
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+}
+
